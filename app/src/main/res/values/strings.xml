@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">apptutoriados</string>
+    <string name="titulo">Calculo IMC</string>
+    <string name="titulopeso">Digite el Peso</string>
+    <string name="tituloaltura">Digite la Altura en CM</string>
+    <string name="tituloimc">IMC</string>
+    <string name="botont">Calcular</string>
+</resources>
